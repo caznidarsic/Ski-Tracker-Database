@@ -1,3 +1,3 @@
 # Ski-Tracker-Database
 The objective of this project is to design and implement a database using a RDBMS that captures all informational aspects of the operations required by a mobile application owned by a fictional business entity operating in the ski industry. This mobile application is a ski tracking app that uses GPS to track and log various activities on a mountain. These activities include skiing trails and riding chairlifts. As a skier performs more of these actions, they earn awards associated with the runs they have skied. The mobile application is assumed to write to the database automatically, and it's design and implementation are outside the scope of this project.
-
+The database was implemented using MySQL.
